@@ -2,7 +2,7 @@
 Working Jitterbit solution for using the NetSuite REST API.
 
 # GIST reference
-  [Jitterbit_NetSuite_REST_API_DELETE](https://gist.github.com/W3BGUY/de12aa35a3866c014ed84359fe854fdb)
+  [Jitterbit_NetSuite_REST_API_DELETE](https://gist.github.com/W3BGUY/de12aa35a3866c014ed84359fe854fdb)  
   [Jitterbit_NetSuite_REST_API_PUT](https://gist.github.com/W3BGUY/edaa2b5a3be3d6cbf599a9f6e8834aef)
   [Jitterbit_NetSuite_REST_API_PATCH](https://gist.github.com/W3BGUY/090ded2f0ccf1f01beb72ec3b579bda0)
   [Jitterbit_NetSuite_REST_API_POST](https://gist.github.com/W3BGUY/926db10609f6d625e7eb743f910415a4)
